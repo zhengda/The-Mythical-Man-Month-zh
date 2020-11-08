@@ -6,7 +6,7 @@ module.exports = {
     repo: "gdut-yy/The-Mythical-Man-Month-zh",
     repoLabel: "Github",
     docsRepo: "gdut-yy/The-Mythical-Man-Month-zh",
-    docsBranch: "master/docs",
+    docsBranch: "main/docs",
     editLinks: true,
     editLinkText: "帮助我们改善此页面！",
     lastUpdated: "Last Updated",
