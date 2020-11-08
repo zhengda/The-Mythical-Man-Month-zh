@@ -4,9 +4,9 @@
 
 在线阅读：[http://gdut_yy.gitee.io/doc-tmmm/](http://gdut_yy.gitee.io/doc-tmmm/)
 
-<!-- <div style="inline">
-  <img src="./docs/cover.jpeg" width="210px" height="280px" />
-</div> -->
+<div style="inline">
+  <img src="./docs/cover.jpg" width="210px" height="280px" />
+</div>
 
 ## 目录
 

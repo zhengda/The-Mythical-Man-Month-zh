@@ -1,6 +1,6 @@
 # 目录
 
-<!-- <img src="./cover.jpeg" style="width: 28%" /> -->
+<img src="./cover.jpg" style="width: 28%" />
 
 - [第 1 章 焦油坑](ch1.md)
 - [第 2 章 人月神话](ch2.md)
