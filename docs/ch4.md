@@ -4,13 +4,13 @@
 
 正是 Jean d 'Orbais 构思了建筑的整体设计，这个设计得到了后继者的认同，至少在本质上如此。这也是这个建筑如此和谐统一的原因之一。
 
-—— 兰斯大教堂指南 1
+——兰斯大教堂指南
 
 This great church is an incomparable work of art. There is neither aridity nor confusion in the tenets it sets forth. . . . It is the zenith of a style, the work of artists who had understood and assimilated all their predecessors ' successes, in complete possession of the techniques of their times, but using them without indiscreet display nor gratuitous feats of skill.
 
 It was Jean d 'Orbais who undoubtedly conceived the general plan of the building, a plan which was respected, at least in its essential elements, by his successors. This is one of the reasons for the extreme coherence and unity of the edifice.
 
-—— REIMS CATHEDRAL GUIDEBOOK1
+——REIMS CATHEDRAL GUIDEBOOK1
 
 ## 概念一致性
 
@@ -51,13 +51,13 @@ It was Jean d 'Orbais who undoubtedly conceived the general plan of the building
 
 因此，系统的结构师，如同建筑的结构师一样，是用户的代理人。结构师的工作，是运用专业技术知识来支持用户的真正利益，而不是维护销售人员所鼓吹的利益。
 
-体系结构同实现必须仔细地区分开来。如同 Blaauw 所说的，"体系结构陈述的是发生了什么，而实现描述的是如何实现 3。"他举了一个简单的例子--时钟。它的结构包括表面、指针和上发条的旋钮。当一个小孩知道了时钟的外表结构，他很容易从手表或者教堂上的时钟辨认时间。而时钟的实现，描述了表壳中的事物--很多种动力提供装置中的一种，以及众多控制精度方案的一种。
+体系结构同实现必须仔细地区分开来。如同 Blaauw 所说的，"体系结构陈述的是发生了什么，而实现描述的是如何实现 3。"他举了一个简单的例子——时钟。它的结构包括表面、指针和上发条的旋钮。当一个小孩知道了时钟的外表结构，他很容易从手表或者教堂上的时钟辨认时间。而时钟的实现，描述了表壳中的事物——很多种动力提供装置中的一种，以及众多控制精度方案的一种。
 
-例如，在 System/360 中，一个计算机的结构可以用 9 种不同的模型来实现；而单个实现--Model 30 的数据流、内存和微代码实现--可以用于 4 种不同的体系结构：System/360 计算机、拥有 224 个独立逻辑子通道的复杂通道、选择通道以及 1401 计算机 4。
+例如，在 System/360 中，一个计算机的结构可以用 9 种不同的模型来实现；而单个实现——Model 30 的数据流、内存和微代码实现——可以用于 4 种不同的体系结构：System/360 计算机、拥有 224 个独立逻辑子通道的复杂通道、选择通道以及 1401 计算机 4。
 
 同样的划分方法也适用于编程系统。例如，美国的 Fortran IV 标准，是多种编译器所遵循的体系结构标准。该体系结构下有多种可能的实现：以文本为核心、以编译器为核心、快速编译和优化以及侧重语法的实现。相类似的，任何汇编语言和任务控制语言都允许有多种编译器或调度程序的实现。
 
-现在让我们来处理具有浓厚感情色彩的问题--贵族统治和民主政治。结构师难道不是新贵？他们一些智力精英，专门来告诉可怜的实现人员如何工作？是否所有的创造性活动被那些精英单独占有，实现人员仅仅是机器中的齿轮？难道不能遵循民主的理论，从所有的员工中搜集好的创意，以得到更好的产品，而不是将技术说明工作仅限定于少数人？
+现在让我们来处理具有浓厚感情色彩的问题——贵族统治和民主政治。结构师难道不是新贵？他们一些智力精英，专门来告诉可怜的实现人员如何工作？是否所有的创造性活动被那些精英单独占有，实现人员仅仅是机器中的齿轮？难道不能遵循民主的理论，从所有的员工中搜集好的创意，以得到更好的产品，而不是将技术说明工作仅限定于少数人？
 
 最后一个问题是最简单的。我当然不认为只有结构师才有好的创意。新的概念经常来自实现者或者用户。然而，我一直试图表达，并且我所有的经验使我确信，系统的概念完整性决定了使用的容易程度。不能与系统基本概念进行整合的良好想法和特色，最好放到一边，不予考虑。如果出现了很多非常重要但不兼容的构想，就应该抛弃原来的设计，对不同基本概念进行合并，在合并后的系统上重新开始。
 
