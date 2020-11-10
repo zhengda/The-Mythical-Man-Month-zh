@@ -2,11 +2,11 @@
 
 这些研究表明，效率高和效率低的实施者之间具体差别非常大，经常达到了数量级的水平。
 
-——SACKMAN, ERIKSON 和 GRANT1
+——SACKMAN, ERIKSON 和 GRANT
 
 These studies revealed large individual differences between high and low performers, often by an order of magnitude.
 
-——SACKMAN, ERIKSON, AND GRANT1
+——SACKMAN, ERIKSON, AND GRANT
 
 在计算机领域的会议中，常常听到年轻的软件经理声称他们喜欢由头等人才组成的小型、精干的队伍，而不是那些几百人的大型团队，这里的"人"当然暗指平庸的程序员。其实我们也经常有相同的看法。
 
@@ -32,7 +32,7 @@ These studies revealed large individual differences between high and low perform
 
 ## Mills 的建议
 
-Harlan Mills 的提议提供了一个崭新的、创造性的解决方案 2，3。Mills 建议大型项目的每一个部分由一个团队解决，但是该队伍以类似外科手术的方式组建，而并非一拥而上。
+Harlan Mills 的提议提供了一个崭新的、创造性的解决方案。Mills 建议大型项目的每一个部分由一个团队解决，但是该队伍以类似外科手术的方式组建，而并非一拥而上。
 
 也就是说，同每个成员截取问题某个部分的做法相反，由一个人来进行问题的分解，其他人给予他所需要的支持，以提高效率和生产力。
 
@@ -76,7 +76,7 @@ Mills 概念的真正关键是"从个人艺术到公共实践"的编程观念转
 
 <Figures figure="3-1">10 人程序开发队伍的沟通模式</Figures>
 
-Baker 的文章 3 提出了专一的、小规模的测试队伍。在那种情况下，它能按照所预期的进行运作，并具有良好的效果。
+Baker 的文章提出了专一的、小规模的测试队伍。在那种情况下，它能按照所预期的进行运作，并具有良好的效果。
 
 ## 团队的扩建
 
